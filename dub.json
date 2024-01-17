@@ -6,16 +6,7 @@
 	"license": "Apache-2.0",
 	"targetType": "library",
 	"dependencies": {
-		"vibe-d": "~>0.9.5"
-  },
-  "sourcePaths": [
-    "../uim-core",
-    "../uim-oop",
-		"./"
-  ],
-  "importPaths": [
-    "../uim-core",
-    "../uim-oop",
-    "./"
-  ]
+		"vibe-d": "~>0.9.7",
+    "uim": "~>24.1.1"
+  }
 }
